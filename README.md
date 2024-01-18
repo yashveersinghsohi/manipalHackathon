@@ -27,7 +27,7 @@ node nodejs/server.js
 php artisan serve 
 ```
 
-After running the above command we will have our server running on http://localhost:8000. Please free free to contact our team if you face any discrepancies.
+After running the above command we will have our server running on http://localhost:8000. Please feel free to contact our team if you face any discrepancies.
 
 ## GOOD LUCK 
 
